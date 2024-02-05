@@ -31,3 +31,6 @@ dataset was obtained from Kaggle.com.
 * Discount
 * Profit
   
+  ## **Visualisation**
+   Visualizations were created in Tableau
+  https://public.tableau.com/app/profile/olanrewaju.tayo.oduwole/viz/Finalproject1_17066852259800/SuperstoreSales20152019?publish=yes
