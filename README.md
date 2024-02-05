@@ -7,4 +7,27 @@ In a landscape marked by rising expectations and fierce market competition, ente
 ## **Data**
 dataset was obtained from Kaggle.com.
 
+**Fact Tables**
 
+**Dimension Tables**
+* Row ID
+* Order ID
+* Order Date
+* Ship Date
+* Ship Mode
+* Customer ID
+* Segment
+* Country
+* City
+* State
+* Postal Code
+* Region
+* Product ID
+* Category
+* Sub-Category
+* Product Name
+* Sales
+* Quantity
+* Discount
+* Profit
+  
